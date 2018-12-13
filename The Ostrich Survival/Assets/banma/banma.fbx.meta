@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 2898a2a7a47b94f45963146be8a3fa37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: banma
+    100004: curve1
+    100006: curve2
+    100008: curve2 1
+    100010: curve2 2
+    100012: curve2 3
+    100014: group10
+    100016: group11
+    100018: group12
+    100020: group3
+    100022: group4
+    100024: group5
+    100026: group6
+    100028: group7
+    100030: group8
+    100032: group9
+    100034: ikHandle1
+    100036: ikHandle2
+    100038: ikHandle3
+    100040: ikHandle4
+    100042: joint1
+    100044: joint10
+    100046: joint11
+    100048: joint12
+    100050: joint13
+    100052: joint14
+    100054: joint15
+    100056: joint16
+    100058: joint17
+    100060: joint18
+    100062: joint19
+    100064: joint2
+    100066: joint20
+    100068: joint21
+    100070: joint22
+    100072: joint23
+    100074: joint24
+    100076: joint25
+    100078: joint26
+    100080: joint27
+    100082: joint28
+    100084: joint29
+    100086: joint3
+    100088: joint30
+    100090: joint31
+    100092: joint32
+    100094: joint33
+    100096: joint34
+    100098: joint35
+    100100: joint36
+    100102: joint37
+    100104: joint38
+    100106: joint39
+    100108: joint4
+    100110: joint40
+    100112: joint41
+    100114: joint42
+    100116: joint43
+    100118: joint44
+    100120: joint45
+    100122: joint46
+    100124: joint47
+    100126: joint48
+    100128: joint49
+    100130: joint5
+    100132: joint50
+    100134: joint51
+    100136: joint52
+    100138: joint53
+    100140: joint54
+    100142: joint55
+    100144: joint56
+    100146: joint57
+    100148: joint58
+    100150: joint59
+    100152: joint6
+    100154: joint60
+    100156: joint61
+    100158: joint62
+    100160: joint63
+    100162: joint64
+    100164: joint65
+    100166: joint66
+    100168: joint67
+    100170: joint68
+    100172: joint7
+    100174: joint8
+    100176: joint9
+    100178: locator1
+    100180: locator2
+    100182: locator2 1
+    100184: locator2 2
+    100186: locator2 3
+    100188: nurbsToPoly1
+    100190: nurbsToPoly2
+    100192: transform1
+    400000: //RootNode
+    400002: banma
+    400004: curve1
+    400006: curve2
+    400008: curve2 1
+    400010: curve2 2
+    400012: curve2 3
+    400014: group10
+    400016: group11
+    400018: group12
+    400020: group3
+    400022: group4
+    400024: group5
+    400026: group6
+    400028: group7
+    400030: group8
+    400032: group9
+    400034: ikHandle1
+    400036: ikHandle2
+    400038: ikHandle3
+    400040: ikHandle4
+    400042: joint1
+    400044: joint10
+    400046: joint11
+    400048: joint12
+    400050: joint13
+    400052: joint14
+    400054: joint15
+    400056: joint16
+    400058: joint17
+    400060: joint18
+    400062: joint19
+    400064: joint2
+    400066: joint20
+    400068: joint21
+    400070: joint22
+    400072: joint23
+    400074: joint24
+    400076: joint25
+    400078: joint26
+    400080: joint27
+    400082: joint28
+    400084: joint29
+    400086: joint3
+    400088: joint30
+    400090: joint31
+    400092: joint32
+    400094: joint33
+    400096: joint34
+    400098: joint35
+    400100: joint36
+    400102: joint37
+    400104: joint38
+    400106: joint39
+    400108: joint4
+    400110: joint40
+    400112: joint41
+    400114: joint42
+    400116: joint43
+    400118: joint44
+    400120: joint45
+    400122: joint46
+    400124: joint47
+    400126: joint48
+    400128: joint49
+    400130: joint5
+    400132: joint50
+    400134: joint51
+    400136: joint52
+    400138: joint53
+    400140: joint54
+    400142: joint55
+    400144: joint56
+    400146: joint57
+    400148: joint58
+    400150: joint59
+    400152: joint6
+    400154: joint60
+    400156: joint61
+    400158: joint62
+    400160: joint63
+    400162: joint64
+    400164: joint65
+    400166: joint66
+    400168: joint67
+    400170: joint68
+    400172: joint7
+    400174: joint8
+    400176: joint9
+    400178: locator1
+    400180: locator2
+    400182: locator2 1
+    400184: locator2 2
+    400186: locator2 3
+    400188: nurbsToPoly1
+    400190: nurbsToPoly2
+    400192: transform1
+    2100000: lambert2
+    2300000: nurbsToPoly1
+    2300002: nurbsToPoly2
+    3300000: nurbsToPoly1
+    3300002: nurbsToPoly2
+    4300000: nurbsToPoly1
+    4300002: nurbsToPoly2
+    4300004: banma
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: banma
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
