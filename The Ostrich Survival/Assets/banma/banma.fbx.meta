@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 2898a2a7a47b94f45963146be8a3fa37
+labels:
+- Scene
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -227,7 +229,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
+    importConstraints: 1
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
